@@ -2,7 +2,7 @@
 
 Landing page de un fontanero ficticio en Granada. Es un proyecto demostrativo: el negocio, el teléfono y el email no existen.
 
-**Demo:** [URL de Cloudflare Pages]
+**Demo:** (https://demo-fontanero.pages.dev/)
 
 ## Objetivo
 
